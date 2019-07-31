@@ -1,0 +1,166 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+		<title>Anatomical Fiducials</title>
+
+		<link rel="stylesheet" href="css/reset.css">
+		<link rel="stylesheet" href="css/reveal.css">
+		<link rel="stylesheet" href="css/theme/black.css">
+
+		<!-- Theme used for syntax highlighting of code -->
+		<link rel="stylesheet" href="lib/css/monokai.css">
+
+		<!-- Printing and PDF exports -->
+		<script>
+			var link = document.createElement( 'link' );
+			link.rel = 'stylesheet';
+			link.type = 'text/css';
+			link.href = window.location.search.match( /print-pdf/gi ) ? 'css/print/pdf.css' : 'css/print/paper.css';
+			document.getElementsByTagName( 'head' )[0].appendChild( link );
+		</script>
+
+		<style>
+			.reveal .slide-number {
+				font-size: 0.35em;
+				position: fixed;
+				left: 45%;
+				width: 10%;
+				text-align: center;
+			}
+
+			.title_text{
+			    position: fixed;
+			    top: 100px; 
+			    left: 0px;
+			}
+
+			.slide_text{
+			    position: relative;
+			    top: 150px; 
+			    left: 50px;
+			    text-align: left;
+			}
+
+			ul.a{
+				list-style-type: square;
+				position: relative;
+				top: 150px; 
+				left: 50px;
+			}
+
+			ul li ul li {
+				list-style-type: disc;
+				position: relative;
+				left: 50px;
+			}
+
+			ol.a{
+				position: relative;
+				top: 150px; 
+				left: 50px;
+				white-space: nowrap;
+			}
+
+			.reveal .imgnoborder {
+				border: 0;
+				background: 0;
+				box-shadow: none;
+				align-self: center;
+				margin: 0px;
+			}
+
+			b {
+				color: #F52F57;
+			}
+
+		</style>
+	</head>
+	<body>
+		<div class="reveal">
+			<div class="slides">
+				<section  id="title">
+					<h1> Anatomical Fiducials (AFIDS)</h1>
+					<p>
+						<medium>Greydon Gilmore</medium>
+						<br>
+						<medium>Neurohackademy 2019</medium>
+					</p>
+				</section>
+
+				<section  id="intro">
+					<h3 class="title_text"> Introduction</h3>
+						<ul class="a">
+				            <li> Image alignment is crucial step in many neuroimaging studies
+					            <ul>
+					            	<li class="fragment"> Within/between study participants/patients</li>
+					            	<li class="fragment"> Subject to template registration</li>
+					            </ul>
+					        </li>
+				            <li class="fragment"> <b>Fiducials</b> represent anatomical feature by 3D Cartesian coordinate (x,y,z)</l>
+				            <li class="fragment"> This protocol aims to increase accuracy/reliability of image registration</li>
+			          	</ul>
+				</section>
+
+				<section  id="AFIDS">
+					<h3 class="title_text"> Anatomical Fiducials (AFIDS)</h3>
+						<ul class="a">
+							<li> The 32 fiducials selected are:
+								<ul>
+									<li class="fragment"> <b>Identifiable</b> across datasets</li>
+									<li class="fragment"> <b>Sampled distributed</b> about the brain</li>
+								</ul>
+							</li>
+							<li class="fragment"> Fiducials placed on any image you want to register</li>
+							<li class="fragment"> Euclidean distances between fiducial points of merged objects provide more sensitive registration accuracy metric</li>
+			          	</ul>
+				</section>
+
+				<section  id="tutorial">
+					<h3 class="title_text"> Tutorial session</h3>
+							<p class="slide_text"> Today I will walk you through placement of all 32 points on an MNI template</p>
+							<ol class="a">
+					            <li> Open Slicer and import image data</li>
+					            <li class="fragment"> Brightness and contrast</li>
+					            <li class="fragment"> Views: axial (red), sagittal (yellow), coronal (green)</li>
+					            <li class="fragment"> Crosshairs</li>
+					            <li class="fragment"> Right mouse button: zoom in/out</li>
+					            <li class="fragment"> Middle mouse button: pan image</li>
+				          	</ol>
+				</section>
+
+				<section  id="k-means">
+					<h3> K-means clustering point clouds</h3>
+						<div>
+							<img style="max-height:60%;" class="imgnoborder" src="img/cluster_plot.png" />
+						</div>
+				</section>
+				
+			</div>
+		</div>
+
+		<script src="js/reveal.js"></script>
+
+		<script>
+			// More info about config & dependencies:
+			// - https://github.com/hakimel/reveal.js#configuration
+			// - https://github.com/hakimel/reveal.js#dependencies
+			Reveal.initialize({
+				controls: true,
+				progress: true,
+				history: true,
+				center: false,
+				slideNumber: true,
+
+				dependencies: [
+					{ src: 'plugin/markdown/marked.js' },
+					{ src: 'plugin/markdown/markdown.js' },
+					{ src: 'plugin/notes/notes.js', async: true },
+					{ src: 'plugin/highlight/highlight.js', async: true }
+				]
+			});
+		</script>
+	</body>
+</html>
