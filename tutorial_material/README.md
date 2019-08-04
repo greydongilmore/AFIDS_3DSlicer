@@ -70,9 +70,7 @@ When placing the fiducials make sure you are on the **Fid32_[VolumeID]_[Rater]_[
 ###############
 * Place at the center of the commissure
 
-.. image:: images/01_AC.png
-	:align: center
-	:alt: 01. Anterior Commissure
+![01. Anterior Commissure](/imgs/01_AC.png)
 
 2. PC [midline]
 ###############
