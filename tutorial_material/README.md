@@ -66,21 +66,21 @@ structure in the corresponding Description textbox:
 
 When placing the fiducials make sure you are on the **Fid32_[VolumeID]_[Rater]_[N]** markup list. Click on **midline** and copy over AC, PC along with the other points to your FID32 list by selecting all fiducials, right click and choosing "Copy”. Select **Fid32_[VolumeID]_[Rater]_[N]**. Place each of the **fiducials** in the markups list entering the associated fiducial number in **Name** and enter the **underlined** name in the **Description textbox**.
 
-1. AC [midline]
-###############
-* Place at the center of the commissure
+**1. AC [midline]**
+
+	- Place at the center of the commissure
 
 <p align="center">
-  <img src="./img/01_AC.png" width="350" title="01. Anterior Commissure">
+  <img src="./img/01_AC.png" width="600" title="01. Anterior Commissure">
 </p>
 
-2. PC [midline]
-###############
-* Place at the center of the commissure
+**2. PC [midline]**
 
-.. image:: images/02_PC.png
-	:align: center
-	:alt: 02. Posterior Commissure
+	* Place at the center of the commissure
+
+<p align="center">
+  <img src="./img/02_PC.png" width="600" title="02. Posterior Commissure">
+</p>
 
 3. infracollicular sulcus [midline]
 ###################################
