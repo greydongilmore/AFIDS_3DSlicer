@@ -452,6 +452,7 @@ When placing the fiducials make sure you are on the **Fid32_[VolumeID]_[Rater]_[
 
   * Sulcal fundus = at depth of sulcus and boundary of gray matter-white matter
   * Posterior and most superior portion visible on axial slice
+  
   * **Name:** 31
   * **Description:** R olfactory sulcal fundus
 
@@ -464,6 +465,7 @@ When placing the fiducials make sure you are on the **Fid32_[VolumeID]_[Rater]_[
 ### **32. Left olfactory sulcal fundus**
 
   * As in 31
+  
   * **Name:** 32
   * **Description:** L olfactory sulcal fundus
 
