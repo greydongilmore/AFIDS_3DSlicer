@@ -1,6 +1,4 @@
-==============
-AFIDS Protocol
-==============
+# AFIDS Protocol
 
 Preparation
 -----------
