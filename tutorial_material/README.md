@@ -68,7 +68,7 @@ When placing the fiducials make sure you are on the **Fid32_[VolumeID]_[Rater]_[
 
 **1. AC [midline]**
 
-	- Place at the center of the commissure
+  * Place at the center of the commissure
 
 <p align="center">
   <img src="./img/01_AC.png" width="600" title="01. Anterior Commissure">
@@ -76,296 +76,270 @@ When placing the fiducials make sure you are on the **Fid32_[VolumeID]_[Rater]_[
 
 **2. PC [midline]**
 
-	* Place at the center of the commissure
+  * Place at the center of the commissure
 
 <p align="center">
   <img src="./img/02_PC.png" width="600" title="02. Posterior Commissure">
 </p>
 
-3. infracollicular sulcus [midline]
-###################################
-* Inferior part of sulcus of inferior colliculi at the midline junction of inferior colliculi
-* Inferior most boundary of longitudinal intercollicular sulcus
+**3. infracollicular sulcus [midline]**
 
-.. image:: images/03_InfracollicularSulcus.png
-	:align: center
-	:alt: 03. Infracollicular Sulcus
+  * Inferior part of sulcus of inferior colliculi at the midline junction of inferior colliculi
+  * Inferior most boundary of longitudinal intercollicular sulcus
 
-4. PMJ = pontomesencephalic junction [midline]
-##############################################
-* At the junction but because the junction tapers off gradually, choose the ventral/inferior/pontine side of the junction using the sagittal and coronal views
+<p align="center">
+  <img src="./img/03_InfracollicularSulcus.png" width="600" title="03. Infracollicular Sulcus">
+</p>
 
-.. image:: images/04_PMJ.png
-	:align: center
-	:alt: 04. Pontomesencephalic Junction
+**4. PMJ = pontomesencephalic junction [midline]**
 
-5. superior interpeduncular fossa [midline]
-###########################################
-* Most superior axial slice showing the interpeduncular fossa
-* Use coronal slice to help optimize location at boundary of 3rd ventricle and surrounding brain
-* Commentary: useful fiducial location for DBS since subthalamic nucleus close by
+  * At the junction but because the junction tapers off gradually, choose the ventral/inferior/pontine side of the junction using the sagittal and coronal views
 
-.. image:: images/05_SIPF.png
-	:align: center
-	:alt: 05. Superior Interpeduncular Fossa
-	
-6. R superior LMS = right superior lateral mesencephalic sulcus
-###############################################################
+<p align="center">
+  <img src="./img/04_PMJ.png" width="600" title="04. Pontomesencephalic Junction">
+</p>
 
-* Localize using axial slices; at boundary of CSF and brain
-* Use the coronal and sagittal views to optimize the location so that this point is in the angle created in all views
+**5. superior interpeduncular fossa [midline]**
 
-.. image:: images/06_RSLMS.png
-	:align: center
-	:alt: 06. Right Superior Lateral Mesencephalic Sulcus
-	  
-7. L superior LMS = left superior lateral mesencephalic sulcus
-###############################################################
+  * Most superior axial slice showing the interpeduncular fossa
+  * Use coronal slice to help optimize location at boundary of 3rd ventricle and surrounding brain
+  * Commentary: useful fiducial location for DBS since subthalamic nucleus close by
 
-* As in 6
+<p align="center">
+  <img src="./img/05_SIPF.png" width="600" title="05. Superior Interpeduncular Fossa">
+</p>
 
-.. image:: images/07_LSLMS.png
-	:align: center
-	:alt: 07. Left Superior Lateral Mesencephalic Sulcus
+**6. R superior LMS = right superior lateral mesencephalic sulcus**
 
-8. R inferior LMS = right inferior lateral mesencephalic sulcus
-###############################################################
+  * Localize using axial slices; at boundary of CSF and brain
+  * Use the coronal and sagittal views to optimize the location so that this point is in the angle created in all views
 
-* Localize at junction between midbrain and pons first using axial slices
-* Refine positioning using sagittal view (at the change in angle of brainstem at the PMJ)
+<p align="center">
+  <img src="./img/06_RSLMS.png" width="600" title="06. Right Superior Lateral Mesencephalic Sulcus">
+</p>
 
-.. image:: images/08_RILMS.png
-	:align: center
-	:alt: 08. Right Inferior Lateral Mesencephalic Sulcus
-  
-9. L inferior LMS = left inferior lateral mesencephalic sulcus
-##############################################################
+**7. L superior LMS = left superior lateral mesencephalic sulcus**
 
-* As in 8
+  * As in 6
+
+<p align="center">
+  <img src="./img/07_LSLMS.png" width="600" title="07. Left Superior Lateral Mesencephalic Sulcus">
+</p>
+
+**8. R inferior LMS = right inferior lateral mesencephalic sulcus**
+
+  * Localize at junction between midbrain and pons first using axial slices
+  * Refine positioning using sagittal view (at the change in angle of brainstem at the PMJ)
+
+<p align="center">
+  <img src="./img/08_RILMS.png" width="600" title="08. Right Inferior Lateral Mesencephalic Sulcus">
+</p>
+
+**9. L inferior LMS = left inferior lateral mesencephalic sulcus**
+
+  * As in 8
 
 .. image:: images/09_LILMS.png
 	:align: center
 	:alt: 09. Left Inferior Lateral Mesencephalic Sulcus
 	
-10. Culmen [midline]
-####################
+**10. Culmen [midline]**
 
-* Jump to AC or another midline AFID to get to the mid-sagittal slice, then place using the sagittal view
-* Most superior point of cerebellar vermis; one of the vermian lobules
+  * Jump to AC or another midline AFID to get to the mid-sagittal slice, then place using the sagittal view
+  * Most superior point of cerebellar vermis; one of the vermian lobules
 
 .. image:: images/10_culmen.png
 	:align: center
 	:alt: 10. Culmen
 	  
-11. Intermammillary sulcus [midline]
-####################################
+**11. Intermammillary sulcus [midline]**
 
-* Click to jump to AC landmark and place using the sagittal view 
-* Midpoint between the mamillary bodies; remember to place at the border of the grey matter
+  * Click to jump to AC landmark and place using the sagittal view 
+  * Midpoint between the mamillary bodies; remember to place at the border of the grey matter
 
 .. image:: images/11_IMS.png
 	:align: center
 	:alt: 11. Intermammillary sulcus
   
-12. R MB = right mammillary body
-################################
+**12. R MB = right mammillary body**
 
-* Place at the center of the mammillary body
+  * Place at the center of the mammillary body
 
 .. image:: images/12_RMB.png
 	:align: center
 	:alt: 12. Right Mammillary body
 	
-13. L MB = left mamillary body
-##############################
+**13. L MB = left mamillary body**
 
-* As in 12
+  * As in 12
 
 .. image:: images/13_LMB.png
 	:align: center
 	:alt: 13. Left Mammillary body
 	
-14. pineal gland [midline]
-##########################
+**14. pineal gland [midline]**
 
-* Click to jump to the AC landmark on the sagittal view and place AFID in the middle of gland (use all views to correctly place this point)
-* Occasionally the pineal gland is calcified, which makes it more difficult to find the center of the gland. Be sure to scroll back and forth in all views to find the true center point regardless of asymmetry of calcifications
+  * Click to jump to the AC landmark on the sagittal view and place AFID in the middle of gland (use all views to correctly place this point)
+  * Occasionally the pineal gland is calcified, which makes it more difficult to find the center of the gland. Be sure to scroll back and forth in all views to find the true center point regardless of asymmetry of calcifications
 
 .. image:: images/14_PG.png
 	:align: center
 	:alt: 14. Pineal Gland
 	
-15. R LV at AC = right lateral aspect of frontal horn on coronal section of AC
-##############################################################################
+**15. R LV at AC = right lateral aspect of frontal horn on coronal section of AC**
 
-* Defined at same coronal slice as AC (jump to it)
+  * Defined at same coronal slice as AC (jump to it)
 
 .. image:: images/15_RLVAC.png
 	:align: center
 	:alt: 15. Right Lateral Aspect of Frontal Horn on Coronal Section of AC
   
-16. L LV at AC = left lateral aspect of frontal horn on coronal section of AC
-#############################################################################
+**16. L LV at AC = left lateral aspect of frontal horn on coronal section of AC**
 
-* As in 15
+  * As in 15
 
 .. image:: images/16_LLVAC.png
 	:align: center
 	:alt: 16. Left Lateral Aspect of Frontal Horn on Coronal Section of AC
 
-17. R LV at PC = right lateral aspect of frontal horn on coronal section of PC
-##############################################################################
+**17. R LV at PC = right lateral aspect of frontal horn on coronal section of PC**
 
-* Defined at same coronal slice as PC (jump to it)
+  * Defined at same coronal slice as PC (jump to it)
 
 .. image:: images/17_RLVPC.png
 	:align: center
 	:alt: 17. Right Lateral Aspect of Frontal Horn on Coronal Section of PC
 
-18. L LV at PC = left lateral aspect of frontal horn on coronal section of PC
-#############################################################################
+**18. L LV at PC = left lateral aspect of frontal horn on coronal section of PC**
 
-* As in 17
+  * As in 17
 
 .. image:: images/18_LLVPC.png
 	:align: center
 	:alt: 18. Left Lateral Aspect of Frontal Horn on Coronal Section of PC
 
-19. Genu of CC = genu of corpus callosum [midline]
-##################################################
+**19. Genu of CC = genu of corpus callosum [midline]**
 
-* Jump to AC and place using sagittal view
-* Optimize using coronal view as most anterior point of the corpus callosum on coronal slice
+  * Jump to AC and place using sagittal view
+  * Optimize using coronal view as most anterior point of the corpus callosum on coronal slice
 
 .. image:: images/19_Genu.png
 	:align: center
 	:alt: 19. Genu of Corpus Callosum
  
-20. Splenium of CC = splenium of the corpus callosum [midline]
-##############################################################
+**20. Splenium of CC = splenium of the corpus callosum [midline]**
 
-* Jump to AC and place using sagittal view.
-* Optimize using axial view as the inferior-most point on axial section
+  * Jump to AC and place using sagittal view.
+  * Optimize using axial view as the inferior-most point on axial section
 
 .. image:: images/20_splenium.png
 	:align: center
 	:alt: 20. Splenium of Corpus Callosum
   
-21. R AL temporal horn = right anterolateral temporal horn
-##########################################################
+**21. R AL temporal horn = right anterolateral temporal horn**
 
-* Place using coronal view as the anterior-most (and lateral) point of temporal horn
-* Choose a more ventral/inferior point on the coronal view
-* Place at the boundary of CSF and brain
+  * Place using coronal view as the anterior-most (and lateral) point of temporal horn
+  * Choose a more ventral/inferior point on the coronal view
+  * Place at the boundary of CSF and brain
 
 .. image:: images/21_RALTH.png
 	:align: center
 	:alt: 21. Right Anterolateral Temporal Horn
   
-22. L AL temporal horn = left anterolateral temporal horn
-#########################################################
+**22. L AL temporal horn = left anterolateral temporal horn**
 
-* As in 21
+  * As in 21
 
 .. image:: images/22_LALTH.png
 	:align: center
 	:alt: 22. Left Anterolateral Temporal Horn
 	
-23. R superior AM temporal horn = Rhoton's R uncal recess
-#########################################################
+**23. R superior AM temporal horn = Rhoton's R uncal recess**
 
-* At the superior hippocampal-amygdalar transition area (HATA)
-* NOTE: there is also an inferior anteromedial temporal horn
-* Rhoton's uncal recess:
-	* "narrow medially projecting space between hippocampal head & ventricular surface of amygdala located lateral to uncal apex")
-* Place at the boundary of CSF and brain
+  * At the superior hippocampal-amygdalar transition area (HATA)
+  * NOTE: there is also an inferior anteromedial temporal horn
+  * Rhoton's uncal recess:
+    * "narrow medially projecting space between hippocampal head & ventricular surface of amygdala located lateral to uncal apex")
+  * Place at the boundary of CSF and brain
 
 .. image:: images/23_RSAMTH.png
 	:align: center
 	:alt: 23. R superior AM temporal horn
 	  
-24. L superior AM temporal horn = Rhoton's L uncal recess
-#########################################################
+**24. L superior AM temporal horn = Rhoton's L uncal recess**
 
-* As in 23
+  * As in 23
 
 .. image:: images/24_LSAMTH.png
 	:align: center
 	:alt: 24. L superior AM temporal horn
 
-25. R inferior AM temporal horn
-###############################
+**25. R inferior AM temporal horn**
 
-* Initially place using coronal view
-* Jump to 21 (right AL temporal horn) and scroll to find the most medial (and anterior) showing of the CSF
-* Optimize using the axial view again to find the most anteromedial showing of the CSF
+  * Initially place using coronal view
+  * Jump to 21 (right AL temporal horn) and scroll to find the most medial (and anterior) showing of the CSF
+  * Optimize using the axial view again to find the most anteromedial showing of the CSF
 
 .. image:: images/25_RIAMTH.png
 	:align: center
 	:alt: 25. R inferior AM temporal horn
   
-26. L inferior AM temporal horn
-###############################
+**26. L inferior AM temporal horn**
 
-* Like in 25
-* Jump to 22 (left AL temporal horn) and scroll the find the most medial showing of the CSF
+  * Like in 25
+  * Jump to 22 (left AL temporal horn) and scroll the find the most medial showing of the CSF
 
 .. image:: images/26_LIAMTH.png
 	:align: center
 	:alt: 26. L inferior AM temporal horn
 	
-27. R indusium griseum origin
-#############################
+**27. R indusium griseum origin**
 
-* Defined on sagittal slice at takeoff from posterior hippocampus below splenium
-* Begin on the sagittal view (make sure the view is on the right side), scroll back and forrth to find the point where the tail of the hippocampus begins to become pointed and "takeoff"
+  * Defined on sagittal slice at takeoff from posterior hippocampus below splenium
+  * Begin on the sagittal view (make sure the view is on the right side), scroll back and forrth to find the point where the tail of the hippocampus begins to become pointed and "takeoff"
 
 .. image:: images/27_RIGO.png
 	:align: center
 	:alt: 27. R indusium griseum origin
   
-28. L indusium griseum origin
-#############################
+**28. L indusium griseum origin**
 
-* As in 27
+  * As in 27
 
 .. image:: images/28_LIGO.png
 	:align: center
 	:alt: 28. L indusium griseum origin
 
-29. R ventral occipital horn
-############################
+**29. R ventral occipital horn**
 
-* Defined on ventral/inferior portion of last visible coronal slice with occipital horn
-* If it is hard to see on the coronal view then you can make the first placement using the axial view (make sure the view is on the right side of the brain).
-* Optimize using other views
+  * Defined on ventral/inferior portion of last visible coronal slice with occipital horn
+  * If it is hard to see on the coronal view then you can make the first placement using the axial view (make sure the view is on the right side of the brain).
+  * Optimize using other views
 
 .. image:: images/29_RVOH.png
 	:align: center
 	:alt: 29. R ventral occipital horn
   
-30. L ventral occipital horn
-############################
-* As in 29
+**30. L ventral occipital horn**
+
+  * As in 29
 
 .. image:: images/30_LVOH.png
 	:align: center
 	:alt: 30. L ventral occipital horn
 
-31. R olfactory sulcal fundus
-#############################
+**31. R olfactory sulcal fundus**
 
-* Sulcal fundus = at depth of sulcus and boundary of gray matter-white matter
-* Posterior and most superior portion visible on axial slice
+  * Sulcal fundus = at depth of sulcus and boundary of gray matter-white matter
+  * Posterior and most superior portion visible on axial slice
 
 .. image:: images/31_ROSF.png
 	:align: center
 	:alt: 31. R olfactory sulcal fundus
 	  
-32. L olfactory sulcal fundus
-#############################
+**32. L olfactory sulcal fundus**
 
-* As in 31
+  * As in 31
 
 .. image:: images/32_LOSF.png
 	:align: center
