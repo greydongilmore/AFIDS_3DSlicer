@@ -82,6 +82,7 @@
 		<div class="reveal">
 			<div class="slides">
 				<section  id="title">
+					<br><br>
 					<h1> Anatomical Fiducials (AFIDS)</h1>
 					<p>
 						<medium>Greydon Gilmore</medium>
@@ -91,38 +92,61 @@
 				</section>
 
 				<section  id="intro">
-					<h3 class="title_text"> Introduction</h3>
+					<h3 class="title_text">Introduction</h3>
 						<ul class="a">
-				            <li> Image alignment is crucial step in many neuroimaging studies
+				            <li>Image alignment is crucial step in many neuroimaging studies
 					            <ul>
 					            	<li class="fragment"> Within/between study participants/patients</li>
 					            	<li class="fragment"> Subject to template registration</li>
 					            </ul>
 					        </li>
-				            <li class="fragment"> <b>Fiducials</b> represent anatomical feature by 3D Cartesian coordinate (x,y,z)</l>
-				            <li class="fragment"> This protocol aims to increase accuracy/reliability of image registration</li>
+				            <li class="fragment"> <b>Fiducials</b> represent anatomical feature by 3D Cartesian coordinate (x, y, z)</l>
+				            <li class="fragment">This protocol aims to increase accuracy/reliability of image registration</li>
 			          	</ul>
 				</section>
 
 				<section  id="AFIDS">
-					<h3 class="title_text"> Anatomical Fiducials (AFIDS)</h3>
+					<h3 class="title_text">Anatomical Fiducials (AFIDS)</h3>
 						<ul class="a">
-							<li> The 32 fiducials selected are:
+							<li>The 32 fiducials selected are:
 								<ul>
 									<li class="fragment"> <b>Identifiable</b> across datasets</li>
-									<li class="fragment"> <b>Sampled distributed</b> about the brain</li>
+									<li class="fragment"> <b>Distributed</b> about the brain</li>
 								</ul>
 							</li>
-							<li class="fragment"> Fiducials placed on any image you want to register</li>
-							<li class="fragment"> Euclidean distances between fiducial points of merged objects provide more sensitive registration accuracy metric</li>
+							<li class="fragment">Fiducials placed on any image you want to register</li>
+							<li class="fragment">Euclidean distances between fiducial points of merged objects provide more sensitive registration accuracy metric</li>
 			          	</ul>
 				</section>
 
+				<section  id="euclidean distances">
+					<h3>Euclidean distance</h3>
+						<div>
+							<img style="max-height: 360px;" class="imgnoborder" src="img/euclidean_distance.png" />
+						</div>
+
+						<script type="math/tex; mode=display">
+							d(P_{1}, P_{2}) = \sqrt{(x_{2}-x_{1})^{2}+(y_{2}-y_{1})^{2}+(z_{2}-z_{1})^{2}}
+						</script>
+				</section>
+
+				<section  id="k-means">
+					<h3>K-means clustering point clouds</h3>
+						<div>
+							<img style="max-height:60%;" class="imgnoborder" src="img/cluster_plot.png" />
+						</div>
+				</section>
+
+				<section  id="resources">
+					<h3 class="title_text">Tutorial session</h3>
+							<p class="slide_text">All resources for this session can be found in <a href="https://github.com/greydongilmore/AFIDS_3DSlicer.git">this repository</a></p>
+				</section>
+
 				<section  id="tutorial">
-					<h3 class="title_text"> Tutorial session</h3>
-							<p class="slide_text"> Today I will walk you through placement of all 32 points on an MNI template</p>
+					<h3 class="title_text">Tutorial session</h3>
+							<p class="slide_text"> Today I will walk you through placement of all 32 points on an MNI template.</p>
 							<ol class="a">
-					            <li> Open Slicer and import image data</li>
+					            <li class="fragment"> Open Slicer and import image data</li>
 					            <li class="fragment"> Brightness and contrast</li>
 					            <li class="fragment"> Views: axial (red), sagittal (yellow), coronal (green)</li>
 					            <li class="fragment"> Crosshairs</li>
@@ -131,13 +155,6 @@
 				          	</ol>
 				</section>
 
-				<section  id="k-means">
-					<h3> K-means clustering point clouds</h3>
-						<div>
-							<img style="max-height:60%;" class="imgnoborder" src="img/cluster_plot.png" />
-						</div>
-				</section>
-				
 			</div>
 		</div>
 
@@ -153,12 +170,13 @@
 				history: true,
 				center: false,
 				slideNumber: true,
-
+				
 				dependencies: [
 					{ src: 'plugin/markdown/marked.js' },
 					{ src: 'plugin/markdown/markdown.js' },
 					{ src: 'plugin/notes/notes.js', async: true },
-					{ src: 'plugin/highlight/highlight.js', async: true }
+					{ src: 'plugin/highlight/highlight.js', async: true },
+					{ src: 'plugin/math/math.js', async: true }
 				]
 			});
 		</script>
