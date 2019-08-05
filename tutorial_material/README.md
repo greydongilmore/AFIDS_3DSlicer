@@ -139,102 +139,102 @@ When placing the fiducials make sure you are on the **Fid32_[VolumeID]_[Rater]_[
 
   * As in 8
 
-.. image:: images/09_LILMS.png
-	:align: center
-	:alt: 09. Left Inferior Lateral Mesencephalic Sulcus
+<p align="center">
+  <img src="./img/09_LILMS.png" width="600" title="09. Left Inferior Lateral Mesencephalic Sulcus">
+</p>
 	
 **10. Culmen [midline]**
 
   * Jump to AC or another midline AFID to get to the mid-sagittal slice, then place using the sagittal view
   * Most superior point of cerebellar vermis; one of the vermian lobules
 
-.. image:: images/10_culmen.png
-	:align: center
-	:alt: 10. Culmen
+<p align="center">
+  <img src="./img/10_culmen.png" width="600" title="10. Culmen">
+</p>
 	  
 **11. Intermammillary sulcus [midline]**
 
   * Click to jump to AC landmark and place using the sagittal view 
   * Midpoint between the mamillary bodies; remember to place at the border of the grey matter
 
-.. image:: images/11_IMS.png
-	:align: center
-	:alt: 11. Intermammillary sulcus
+<p align="center">
+  <img src="./img/11_IMS.png" width="600" title="11. Intermammillary sulcus">
+</p>
   
 **12. R MB = right mammillary body**
 
   * Place at the center of the mammillary body
 
-.. image:: images/12_RMB.png
-	:align: center
-	:alt: 12. Right Mammillary body
+<p align="center">
+  <img src="./img/12_RMB.png" width="600" title="12. Right Mammillary body">
+</p>
 	
 **13. L MB = left mamillary body**
 
   * As in 12
 
-.. image:: images/13_LMB.png
-	:align: center
-	:alt: 13. Left Mammillary body
+<p align="center">
+  <img src="./img/13_LMB.png" width="600" title="13. Left Mammillary body">
+</p>
 	
 **14. pineal gland [midline]**
 
   * Click to jump to the AC landmark on the sagittal view and place AFID in the middle of gland (use all views to correctly place this point)
   * Occasionally the pineal gland is calcified, which makes it more difficult to find the center of the gland. Be sure to scroll back and forth in all views to find the true center point regardless of asymmetry of calcifications
 
-.. image:: images/14_PG.png
-	:align: center
-	:alt: 14. Pineal Gland
+<p align="center">
+  <img src="./img/14_PG.png" width="600" title="14. Pineal Gland">
+</p>
 	
 **15. R LV at AC = right lateral aspect of frontal horn on coronal section of AC**
 
   * Defined at same coronal slice as AC (jump to it)
 
-.. image:: images/15_RLVAC.png
-	:align: center
-	:alt: 15. Right Lateral Aspect of Frontal Horn on Coronal Section of AC
+<p align="center">
+  <img src="./img/15_RLVAC.png" width="600" title="15. Right Lateral Aspect of Frontal Horn on Coronal Section of AC">
+</p>
   
 **16. L LV at AC = left lateral aspect of frontal horn on coronal section of AC**
 
   * As in 15
 
-.. image:: images/16_LLVAC.png
-	:align: center
-	:alt: 16. Left Lateral Aspect of Frontal Horn on Coronal Section of AC
+<p align="center">
+  <img src="./img/16_LLVAC.png" width="600" title="16. Left Lateral Aspect of Frontal Horn on Coronal Section of AC">
+</p>
 
 **17. R LV at PC = right lateral aspect of frontal horn on coronal section of PC**
 
   * Defined at same coronal slice as PC (jump to it)
 
-.. image:: images/17_RLVPC.png
-	:align: center
-	:alt: 17. Right Lateral Aspect of Frontal Horn on Coronal Section of PC
+<p align="center">
+  <img src="./img/17_RLVPC.png" width="600" title="17. Right Lateral Aspect of Frontal Horn on Coronal Section of PC">
+</p>
 
 **18. L LV at PC = left lateral aspect of frontal horn on coronal section of PC**
 
   * As in 17
 
-.. image:: images/18_LLVPC.png
-	:align: center
-	:alt: 18. Left Lateral Aspect of Frontal Horn on Coronal Section of PC
+<p align="center">
+  <img src="./img/18_LLVPC.png" width="600" title="18. Left Lateral Aspect of Frontal Horn on Coronal Section of PC">
+</p>
 
 **19. Genu of CC = genu of corpus callosum [midline]**
 
   * Jump to AC and place using sagittal view
   * Optimize using coronal view as most anterior point of the corpus callosum on coronal slice
 
-.. image:: images/19_Genu.png
-	:align: center
-	:alt: 19. Genu of Corpus Callosum
+<p align="center">
+  <img src="./img/19_Genu.png" width="600" title="19. Genu of Corpus Callosum">
+</p>
  
 **20. Splenium of CC = splenium of the corpus callosum [midline]**
 
   * Jump to AC and place using sagittal view.
   * Optimize using axial view as the inferior-most point on axial section
 
-.. image:: images/20_splenium.png
-	:align: center
-	:alt: 20. Splenium of Corpus Callosum
+<p align="center">
+  <img src="./img/20_splenium.png" width="600" title="20. Splenium of Corpus Callosum">
+</p>
   
 **21. R AL temporal horn = right anterolateral temporal horn**
 
@@ -242,17 +242,17 @@ When placing the fiducials make sure you are on the **Fid32_[VolumeID]_[Rater]_[
   * Choose a more ventral/inferior point on the coronal view
   * Place at the boundary of CSF and brain
 
-.. image:: images/21_RALTH.png
-	:align: center
-	:alt: 21. Right Anterolateral Temporal Horn
+<p align="center">
+  <img src="./img/21_RALTH.png" width="600" title="21. Right Anterolateral Temporal Horn">
+</p>
   
 **22. L AL temporal horn = left anterolateral temporal horn**
 
   * As in 21
 
-.. image:: images/22_LALTH.png
-	:align: center
-	:alt: 22. Left Anterolateral Temporal Horn
+<p align="center">
+  <img src="./img/22_LALTH.png" width="600" title="22. Left Anterolateral Temporal Horn">
+</p>
 	
 **23. R superior AM temporal horn = Rhoton's R uncal recess**
 
@@ -262,17 +262,17 @@ When placing the fiducials make sure you are on the **Fid32_[VolumeID]_[Rater]_[
     * "narrow medially projecting space between hippocampal head & ventricular surface of amygdala located lateral to uncal apex")
   * Place at the boundary of CSF and brain
 
-.. image:: images/23_RSAMTH.png
-	:align: center
-	:alt: 23. R superior AM temporal horn
+<p align="center">
+  <img src="./img/23_RSAMTH.png" width="600" title="23. R superior AM temporal horn">
+</p>
 	  
 **24. L superior AM temporal horn = Rhoton's L uncal recess**
 
   * As in 23
 
-.. image:: images/24_LSAMTH.png
-	:align: center
-	:alt: 24. L superior AM temporal horn
+<p align="center">
+  <img src="./img/24_LSAMTH.png" width="600" title="24. L superior AM temporal horn">
+</p>
 
 **25. R inferior AM temporal horn**
 
@@ -280,35 +280,35 @@ When placing the fiducials make sure you are on the **Fid32_[VolumeID]_[Rater]_[
   * Jump to 21 (right AL temporal horn) and scroll to find the most medial (and anterior) showing of the CSF
   * Optimize using the axial view again to find the most anteromedial showing of the CSF
 
-.. image:: images/25_RIAMTH.png
-	:align: center
-	:alt: 25. R inferior AM temporal horn
+<p align="center">
+  <img src="./img/25_RIAMTH.png" width="600" title="25. R inferior AM temporal horn">
+</p>
   
 **26. L inferior AM temporal horn**
 
   * Like in 25
   * Jump to 22 (left AL temporal horn) and scroll the find the most medial showing of the CSF
 
-.. image:: images/26_LIAMTH.png
-	:align: center
-	:alt: 26. L inferior AM temporal horn
+<p align="center">
+  <img src="./img/26_LIAMTH.png" width="600" title="26. L inferior AM temporal horn">
+</p>
 	
 **27. R indusium griseum origin**
 
   * Defined on sagittal slice at takeoff from posterior hippocampus below splenium
   * Begin on the sagittal view (make sure the view is on the right side), scroll back and forrth to find the point where the tail of the hippocampus begins to become pointed and "takeoff"
 
-.. image:: images/27_RIGO.png
-	:align: center
-	:alt: 27. R indusium griseum origin
+<p align="center">
+  <img src="./img/27_RIGO.png" width="600" title="27. R indusium griseum origin">
+</p>
   
 **28. L indusium griseum origin**
 
   * As in 27
 
-.. image:: images/28_LIGO.png
-	:align: center
-	:alt: 28. L indusium griseum origin
+<p align="center">
+  <img src="./img/28_LIGO.png" width="600" title="28. L indusium griseum origin">
+</p>
 
 **29. R ventral occipital horn**
 
@@ -316,31 +316,33 @@ When placing the fiducials make sure you are on the **Fid32_[VolumeID]_[Rater]_[
   * If it is hard to see on the coronal view then you can make the first placement using the axial view (make sure the view is on the right side of the brain).
   * Optimize using other views
 
-.. image:: images/29_RVOH.png
-	:align: center
-	:alt: 29. R ventral occipital horn
+<p align="center">
+  <img src="./img/29_RVOH.png" width="600" title="29. R ventral occipital horn">
+</p>
   
 **30. L ventral occipital horn**
 
   * As in 29
 
-.. image:: images/30_LVOH.png
-	:align: center
-	:alt: 30. L ventral occipital horn
+<p align="center">
+  <img src="./img/30_LVOH.png" width="600" title="30. L ventral occipital horn">
+</p>
 
 **31. R olfactory sulcal fundus**
 
   * Sulcal fundus = at depth of sulcus and boundary of gray matter-white matter
   * Posterior and most superior portion visible on axial slice
 
-.. image:: images/31_ROSF.png
-	:align: center
-	:alt: 31. R olfactory sulcal fundus
+<p align="center">
+  <img src="./img/31_ROSF.png" width="600" title="31. R olfactory sulcal fundus">
+</p>
+
 	  
 **32. L olfactory sulcal fundus**
 
   * As in 31
 
-.. image:: images/32_LOSF.png
-	:align: center
-	:alt: 32. L olfactory sulcal fundus	
+<p align="center">
+  <img src="./img/32_LOSF.png" title="32. L olfactory sulcal fundus ">
+</p>
+
