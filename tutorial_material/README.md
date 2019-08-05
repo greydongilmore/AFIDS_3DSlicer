@@ -242,7 +242,7 @@ When placing the fiducials make sure you are on the **Fid32_[VolumeID]_[Rater]_[
 
 ----------------------------
 
-### **15. Pight lateral aspect of frontal horn on coronal section of AC**
+### **15. Right lateral aspect of frontal horn at AC**
 
   * Defined at same coronal slice as AC (jump to it)
   * **Name:** 15
@@ -254,7 +254,7 @@ When placing the fiducials make sure you are on the **Fid32_[VolumeID]_[Rater]_[
 
 ----------------------------
 
-### **16. Left lateral aspect of frontal horn on coronal section of AC**
+### **16. Left lateral aspect of frontal horn at AC**
 
   * As in 15
   * **Name:** 16
@@ -266,7 +266,7 @@ When placing the fiducials make sure you are on the **Fid32_[VolumeID]_[Rater]_[
 
 ----------------------------
 
-### **17. Right lateral aspect of frontal horn on coronal section of PC**
+### **17. Right lateral aspect of frontal horn on at PC**
 
   * Defined at same coronal slice as PC (jump to it)
   * **Name:** 17
@@ -278,7 +278,7 @@ When placing the fiducials make sure you are on the **Fid32_[VolumeID]_[Rater]_[
 
 ----------------------------
 
-### **18. Left lateral aspect of frontal horn on coronal section of PC**
+### **18. Left lateral aspect of frontal horn at PC**
 
   * As in 17
   * **Name:** 18
