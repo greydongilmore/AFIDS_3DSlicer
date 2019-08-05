@@ -71,7 +71,7 @@ When placing the fiducials make sure you are on the **Fid32_[VolumeID]_[Rater]_[
   * Place at the center of the commissure
 
 <p align="center">
-  <img src="./img/01_AC.png" width="600" title="01. Anterior Commissure">
+  <img src="./img/01_AC.png" title="01. Anterior Commissure">
 </p>
 
 **2. PC [midline]**
@@ -79,7 +79,7 @@ When placing the fiducials make sure you are on the **Fid32_[VolumeID]_[Rater]_[
   * Place at the center of the commissure
 
 <p align="center">
-  <img src="./img/02_PC.png" width="600" title="02. Posterior Commissure">
+  <img src="./img/02_PC.png" title="02. Posterior Commissure">
 </p>
 
 **3. infracollicular sulcus [midline]**
@@ -88,7 +88,7 @@ When placing the fiducials make sure you are on the **Fid32_[VolumeID]_[Rater]_[
   * Inferior most boundary of longitudinal intercollicular sulcus
 
 <p align="center">
-  <img src="./img/03_InfracollicularSulcus.png" width="600" title="03. Infracollicular Sulcus">
+  <img src="./img/03_InfracollicularSulcus.png" title="03. Infracollicular Sulcus">
 </p>
 
 **4. PMJ = pontomesencephalic junction [midline]**
@@ -96,7 +96,7 @@ When placing the fiducials make sure you are on the **Fid32_[VolumeID]_[Rater]_[
   * At the junction but because the junction tapers off gradually, choose the ventral/inferior/pontine side of the junction using the sagittal and coronal views
 
 <p align="center">
-  <img src="./img/04_PMJ.png" width="600" title="04. Pontomesencephalic Junction">
+  <img src="./img/04_PMJ.png" title="04. Pontomesencephalic Junction">
 </p>
 
 **5. superior interpeduncular fossa [midline]**
@@ -106,7 +106,7 @@ When placing the fiducials make sure you are on the **Fid32_[VolumeID]_[Rater]_[
   * Commentary: useful fiducial location for DBS since subthalamic nucleus close by
 
 <p align="center">
-  <img src="./img/05_SIPF.png" width="600" title="05. Superior Interpeduncular Fossa">
+  <img src="./img/05_SIPF.png" title="05. Superior Interpeduncular Fossa">
 </p>
 
 **6. R superior LMS = right superior lateral mesencephalic sulcus**
@@ -115,7 +115,7 @@ When placing the fiducials make sure you are on the **Fid32_[VolumeID]_[Rater]_[
   * Use the coronal and sagittal views to optimize the location so that this point is in the angle created in all views
 
 <p align="center">
-  <img src="./img/06_RSLMS.png" width="600" title="06. Right Superior Lateral Mesencephalic Sulcus">
+  <img src="./img/06_RSLMS.png" title="06. Right Superior Lateral Mesencephalic Sulcus">
 </p>
 
 **7. L superior LMS = left superior lateral mesencephalic sulcus**
@@ -123,7 +123,7 @@ When placing the fiducials make sure you are on the **Fid32_[VolumeID]_[Rater]_[
   * As in 6
 
 <p align="center">
-  <img src="./img/07_LSLMS.png" width="600" title="07. Left Superior Lateral Mesencephalic Sulcus">
+  <img src="./img/07_LSLMS.png" title="07. Left Superior Lateral Mesencephalic Sulcus">
 </p>
 
 **8. R inferior LMS = right inferior lateral mesencephalic sulcus**
@@ -132,7 +132,7 @@ When placing the fiducials make sure you are on the **Fid32_[VolumeID]_[Rater]_[
   * Refine positioning using sagittal view (at the change in angle of brainstem at the PMJ)
 
 <p align="center">
-  <img src="./img/08_RILMS.png" width="600" title="08. Right Inferior Lateral Mesencephalic Sulcus">
+  <img src="./img/08_RILMS.png" title="08. Right Inferior Lateral Mesencephalic Sulcus">
 </p>
 
 **9. L inferior LMS = left inferior lateral mesencephalic sulcus**
@@ -140,7 +140,7 @@ When placing the fiducials make sure you are on the **Fid32_[VolumeID]_[Rater]_[
   * As in 8
 
 <p align="center">
-  <img src="./img/09_LILMS.png" width="600" title="09. Left Inferior Lateral Mesencephalic Sulcus">
+  <img src="./img/09_LILMS.png" title="09. Left Inferior Lateral Mesencephalic Sulcus">
 </p>
 	
 **10. Culmen [midline]**
@@ -149,7 +149,7 @@ When placing the fiducials make sure you are on the **Fid32_[VolumeID]_[Rater]_[
   * Most superior point of cerebellar vermis; one of the vermian lobules
 
 <p align="center">
-  <img src="./img/10_culmen.png" width="600" title="10. Culmen">
+  <img src="./img/10_culmen.png" title="10. Culmen">
 </p>
 	  
 **11. Intermammillary sulcus [midline]**
@@ -158,7 +158,7 @@ When placing the fiducials make sure you are on the **Fid32_[VolumeID]_[Rater]_[
   * Midpoint between the mamillary bodies; remember to place at the border of the grey matter
 
 <p align="center">
-  <img src="./img/11_IMS.png" width="600" title="11. Intermammillary sulcus">
+  <img src="./img/11_IMS.png" title="11. Intermammillary sulcus">
 </p>
   
 **12. R MB = right mammillary body**
@@ -166,7 +166,7 @@ When placing the fiducials make sure you are on the **Fid32_[VolumeID]_[Rater]_[
   * Place at the center of the mammillary body
 
 <p align="center">
-  <img src="./img/12_RMB.png" width="600" title="12. Right Mammillary body">
+  <img src="./img/12_RMB.png" title="12. Right Mammillary body">
 </p>
 	
 **13. L MB = left mamillary body**
@@ -174,7 +174,7 @@ When placing the fiducials make sure you are on the **Fid32_[VolumeID]_[Rater]_[
   * As in 12
 
 <p align="center">
-  <img src="./img/13_LMB.png" width="600" title="13. Left Mammillary body">
+  <img src="./img/13_LMB.png" title="13. Left Mammillary body">
 </p>
 	
 **14. pineal gland [midline]**
@@ -183,7 +183,7 @@ When placing the fiducials make sure you are on the **Fid32_[VolumeID]_[Rater]_[
   * Occasionally the pineal gland is calcified, which makes it more difficult to find the center of the gland. Be sure to scroll back and forth in all views to find the true center point regardless of asymmetry of calcifications
 
 <p align="center">
-  <img src="./img/14_PG.png" width="600" title="14. Pineal Gland">
+  <img src="./img/14_PG.png" title="14. Pineal Gland">
 </p>
 	
 **15. R LV at AC = right lateral aspect of frontal horn on coronal section of AC**
@@ -191,7 +191,7 @@ When placing the fiducials make sure you are on the **Fid32_[VolumeID]_[Rater]_[
   * Defined at same coronal slice as AC (jump to it)
 
 <p align="center">
-  <img src="./img/15_RLVAC.png" width="600" title="15. Right Lateral Aspect of Frontal Horn on Coronal Section of AC">
+  <img src="./img/15_RLVAC.png" title="15. Right Lateral Aspect of Frontal Horn on Coronal Section of AC">
 </p>
   
 **16. L LV at AC = left lateral aspect of frontal horn on coronal section of AC**
@@ -199,7 +199,7 @@ When placing the fiducials make sure you are on the **Fid32_[VolumeID]_[Rater]_[
   * As in 15
 
 <p align="center">
-  <img src="./img/16_LLVAC.png" width="600" title="16. Left Lateral Aspect of Frontal Horn on Coronal Section of AC">
+  <img src="./img/16_LLVAC.png" title="16. Left Lateral Aspect of Frontal Horn on Coronal Section of AC">
 </p>
 
 **17. R LV at PC = right lateral aspect of frontal horn on coronal section of PC**
@@ -207,7 +207,7 @@ When placing the fiducials make sure you are on the **Fid32_[VolumeID]_[Rater]_[
   * Defined at same coronal slice as PC (jump to it)
 
 <p align="center">
-  <img src="./img/17_RLVPC.png" width="600" title="17. Right Lateral Aspect of Frontal Horn on Coronal Section of PC">
+  <img src="./img/17_RLVPC.png" title="17. Right Lateral Aspect of Frontal Horn on Coronal Section of PC">
 </p>
 
 **18. L LV at PC = left lateral aspect of frontal horn on coronal section of PC**
@@ -215,7 +215,7 @@ When placing the fiducials make sure you are on the **Fid32_[VolumeID]_[Rater]_[
   * As in 17
 
 <p align="center">
-  <img src="./img/18_LLVPC.png" width="600" title="18. Left Lateral Aspect of Frontal Horn on Coronal Section of PC">
+  <img src="./img/18_LLVPC.png" title="18. Left Lateral Aspect of Frontal Horn on Coronal Section of PC">
 </p>
 
 **19. Genu of CC = genu of corpus callosum [midline]**
@@ -224,7 +224,7 @@ When placing the fiducials make sure you are on the **Fid32_[VolumeID]_[Rater]_[
   * Optimize using coronal view as most anterior point of the corpus callosum on coronal slice
 
 <p align="center">
-  <img src="./img/19_Genu.png" width="600" title="19. Genu of Corpus Callosum">
+  <img src="./img/19_Genu.png" title="19. Genu of Corpus Callosum">
 </p>
  
 **20. Splenium of CC = splenium of the corpus callosum [midline]**
@@ -233,7 +233,7 @@ When placing the fiducials make sure you are on the **Fid32_[VolumeID]_[Rater]_[
   * Optimize using axial view as the inferior-most point on axial section
 
 <p align="center">
-  <img src="./img/20_splenium.png" width="600" title="20. Splenium of Corpus Callosum">
+  <img src="./img/20_splenium.png" title="20. Splenium of Corpus Callosum">
 </p>
   
 **21. R AL temporal horn = right anterolateral temporal horn**
@@ -243,7 +243,7 @@ When placing the fiducials make sure you are on the **Fid32_[VolumeID]_[Rater]_[
   * Place at the boundary of CSF and brain
 
 <p align="center">
-  <img src="./img/21_RALTH.png" width="600" title="21. Right Anterolateral Temporal Horn">
+  <img src="./img/21_RALTH.png" title="21. Right Anterolateral Temporal Horn">
 </p>
   
 **22. L AL temporal horn = left anterolateral temporal horn**
@@ -251,7 +251,7 @@ When placing the fiducials make sure you are on the **Fid32_[VolumeID]_[Rater]_[
   * As in 21
 
 <p align="center">
-  <img src="./img/22_LALTH.png" width="600" title="22. Left Anterolateral Temporal Horn">
+  <img src="./img/22_LALTH.png" title="22. Left Anterolateral Temporal Horn">
 </p>
 	
 **23. R superior AM temporal horn = Rhoton's R uncal recess**
@@ -263,7 +263,7 @@ When placing the fiducials make sure you are on the **Fid32_[VolumeID]_[Rater]_[
   * Place at the boundary of CSF and brain
 
 <p align="center">
-  <img src="./img/23_RSAMTH.png" width="600" title="23. R superior AM temporal horn">
+  <img src="./img/23_RSAMTH.png" title="23. R superior AM temporal horn">
 </p>
 	  
 **24. L superior AM temporal horn = Rhoton's L uncal recess**
@@ -271,7 +271,7 @@ When placing the fiducials make sure you are on the **Fid32_[VolumeID]_[Rater]_[
   * As in 23
 
 <p align="center">
-  <img src="./img/24_LSAMTH.png" width="600" title="24. L superior AM temporal horn">
+  <img src="./img/24_LSAMTH.png" title="24. L superior AM temporal horn">
 </p>
 
 **25. R inferior AM temporal horn**
@@ -281,7 +281,7 @@ When placing the fiducials make sure you are on the **Fid32_[VolumeID]_[Rater]_[
   * Optimize using the axial view again to find the most anteromedial showing of the CSF
 
 <p align="center">
-  <img src="./img/25_RIAMTH.png" width="600" title="25. R inferior AM temporal horn">
+  <img src="./img/25_RIAMTH.png" title="25. R inferior AM temporal horn">
 </p>
   
 **26. L inferior AM temporal horn**
@@ -290,7 +290,7 @@ When placing the fiducials make sure you are on the **Fid32_[VolumeID]_[Rater]_[
   * Jump to 22 (left AL temporal horn) and scroll the find the most medial showing of the CSF
 
 <p align="center">
-  <img src="./img/26_LIAMTH.png" width="600" title="26. L inferior AM temporal horn">
+  <img src="./img/26_LIAMTH.png" title="26. L inferior AM temporal horn">
 </p>
 	
 **27. R indusium griseum origin**
@@ -299,7 +299,7 @@ When placing the fiducials make sure you are on the **Fid32_[VolumeID]_[Rater]_[
   * Begin on the sagittal view (make sure the view is on the right side), scroll back and forrth to find the point where the tail of the hippocampus begins to become pointed and "takeoff"
 
 <p align="center">
-  <img src="./img/27_RIGO.png" width="600" title="27. R indusium griseum origin">
+  <img src="./img/27_RIGO.png" title="27. R indusium griseum origin">
 </p>
   
 **28. L indusium griseum origin**
@@ -307,7 +307,7 @@ When placing the fiducials make sure you are on the **Fid32_[VolumeID]_[Rater]_[
   * As in 27
 
 <p align="center">
-  <img src="./img/28_LIGO.png" width="600" title="28. L indusium griseum origin">
+  <img src="./img/28_LIGO.png" title="28. L indusium griseum origin">
 </p>
 
 **29. R ventral occipital horn**
@@ -317,7 +317,7 @@ When placing the fiducials make sure you are on the **Fid32_[VolumeID]_[Rater]_[
   * Optimize using other views
 
 <p align="center">
-  <img src="./img/29_RVOH.png" width="600" title="29. R ventral occipital horn">
+  <img src="./img/29_RVOH.png" title="29. R ventral occipital horn">
 </p>
   
 **30. L ventral occipital horn**
@@ -325,7 +325,7 @@ When placing the fiducials make sure you are on the **Fid32_[VolumeID]_[Rater]_[
   * As in 29
 
 <p align="center">
-  <img src="./img/30_LVOH.png" width="600" title="30. L ventral occipital horn">
+  <img src="./img/30_LVOH.png" title="30. L ventral occipital horn">
 </p>
 
 **31. R olfactory sulcal fundus**
@@ -334,7 +334,7 @@ When placing the fiducials make sure you are on the **Fid32_[VolumeID]_[Rater]_[
   * Posterior and most superior portion visible on axial slice
 
 <p align="center">
-  <img src="./img/31_ROSF.png" width="600" title="31. R olfactory sulcal fundus">
+  <img src="./img/31_ROSF.png" title="31. R olfactory sulcal fundus">
 </p>
 
 	  
