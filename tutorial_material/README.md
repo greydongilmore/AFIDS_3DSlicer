@@ -342,8 +342,9 @@ When placing the fiducials make sure you are on the **Fid32_[VolumeID]_[Rater]_[
 
 ----------------------------
 
-### **23. Rhoton's right uncal recess**
+### **23. Right superior AM temporal horn**
 
+  * alias: Rhoton's right uncal recess
   * At the superior hippocampal-amygdalar transition area (HATA)
   * NOTE: there is also an inferior anteromedial temporal horn
   * Rhoton's uncal recess:
@@ -358,8 +359,9 @@ When placing the fiducials make sure you are on the **Fid32_[VolumeID]_[Rater]_[
 
 ----------------------------
 
-### **24. Rhoton's left uncal recess**
-
+### **24. Left superior AM temporal horn**
+  
+  * alias: Rhoton's left uncal recess
   * As in 23
   * **Name:** 24
   * **Description:** L superior AM temporal horn
@@ -370,7 +372,7 @@ When placing the fiducials make sure you are on the **Fid32_[VolumeID]_[Rater]_[
 
 ----------------------------
 
-### **25. R inferior AM temporal horn**
+### **25. Right inferior AM temporal horn**
 
   * Initially place using coronal view
   * Jump to 21 (right AL temporal horn) and scroll to find the most medial (and anterior) showing of the CSF
@@ -384,7 +386,7 @@ When placing the fiducials make sure you are on the **Fid32_[VolumeID]_[Rater]_[
 
 ----------------------------
 
-### **26. L inferior AM temporal horn**
+### **26. Left inferior AM temporal horn**
 
   * Like in 25
   * Jump to 22 (left AL temporal horn) and scroll the find the most medial showing of the CSF
